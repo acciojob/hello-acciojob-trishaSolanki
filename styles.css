@@ -1,25 +1,20 @@
 
-/* Your CSS Code here. */
-  margin: 0px;
-    padding: 0px;
-    font-family: Arial, sans-serif;
-  }
-  .accio {
-    width:150px;
-    height:150px;
-    background-color: black;
-  }
-  #job {
-    /* No additional styles for ID 'job' */
-	  width:150px;
-	  background-color:rbg(0,0,0,1);
-	  height:150px;
-  }
+/* Reset default margin and padding */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
 
-  .hello-accio {
-	  background-color:black;
-	  text-align:center;
-    color: white;
+/* Apply styles to main element */
+.accio {
+    width: 150px;
+    height: 150px;
+    background-color: #000000;
+}
+
+/* Apply styles to p element with class hello-accio */
+.hello-accio {
+    color: #ffffff;
     margin-left: 32px;
     padding: 10px;
-  }
+}
