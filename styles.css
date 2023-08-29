@@ -6,13 +6,14 @@
   }
 
   .accio {
-    width:984px;
+    width:150px;
     height: 150px;
     background-color: black;
   }
 
   #job {
     /* No additional styles for ID 'job' */
+	  width:150px;
   }
 
   .hello-accio {
