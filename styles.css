@@ -1,16 +1,14 @@
 
 /* Your CSS Code here. */
-  margin: 0;
-    padding: 0;
+  margin: 0px;
+    padding: 0px;
     font-family: Arial, sans-serif;
   }
-
   .accio {
     width:150px;
-    height: 150px;
+    height:150px;
     background-color: black;
   }
-
   #job {
     /* No additional styles for ID 'job' */
 	  width:150px;
