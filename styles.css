@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+  margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+
+  .accio {
+    width: 150px;
+    height: 150px;
+    background-color: black;
+  }
+
+  #job {
+    /* No additional styles for ID 'job' */
+  }
+
+  .hello-accio {
+	  background-color:black;
+	  text-align:center;
+    color: white;
+    margin-left: 32px;
+    padding: 10px;
+  }
